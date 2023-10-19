@@ -68,3 +68,5 @@ const validateInputs = () => {
     setSuccess(password2);
   }
 }
+
+c
